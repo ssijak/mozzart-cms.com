@@ -892,7 +892,7 @@ a:hover, a:focus{
 
 #portfolio{
     background-color: #ffffff;
-    /*padding-bottom:20px;*/
+    padding-bottom:0px;
 }
 
 #portfolio #filters .btn {
